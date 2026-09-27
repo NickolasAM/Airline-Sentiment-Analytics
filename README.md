@@ -31,7 +31,7 @@ Each tweet is assigned a dominant theme, and the analyzed dataset is exported to
 
 ## Running the Project
 
-Install dependencies:
+### 1. Install dependencies
 
 ```bash
-pip install pandas scikit-learn
+pip install -r requirements.txt
