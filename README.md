@@ -73,5 +73,3 @@ Airline-Sentiment-Analytics/
 ├── airline_sentiment.py
 └── requirements.txt
 ```
-
-Then:
