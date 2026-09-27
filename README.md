@@ -54,7 +54,7 @@ The program:
 The generated output file is:
 
 ```text
-Airline_Sentiment_With_Themes.csv
+Airline_Sentiment_Themes.csv
 ```
 
 ## Dataset
