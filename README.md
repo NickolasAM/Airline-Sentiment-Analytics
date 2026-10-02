@@ -1,4 +1,4 @@
-# Airline Sentiment Analytics
+# Airline Tweet Theme Analysis
 
 Python NLP project that analyzes airline customer tweets and identifies recurring themes using TF-IDF and Non-Negative Matrix Factorization (NMF).
 
